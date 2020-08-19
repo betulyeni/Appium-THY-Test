@@ -13,6 +13,12 @@ Appium THY Test
 * Sayfa geçişi için "2" bekleyiniz
 * Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)
 * Sayfa geçişi için "2" bekleyiniz
-* Nereden "ESB" Nereye "SAW"
+* Nereden "SAW" Nereye "ESB"
 * Sayfa geçişi için "2" bekleyiniz
+* Yetişkin Yolcu Sayısını Değiştirme
+* Sayfa geçişi için "2" bekleyiniz
+* Uçuş Ara Butonuna Tıklanır
+* Sayfa geçişi için "2" bekleyiniz
+
+
 
