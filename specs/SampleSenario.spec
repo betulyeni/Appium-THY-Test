@@ -5,7 +5,7 @@ This is an executable specification file. This file follows markdown syntax. Eve
 To execute this specification, use `mvn test`
 
 
-
+appı
 Appium THY Test
 ----------------
 * Sayfa geçişi için "2" bekleyiniz
