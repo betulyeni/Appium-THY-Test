@@ -38,7 +38,9 @@ Appium THY Test
 * Cinsiyet Secimi "1" (Erkek için 1 - Kadın için 2) Seçiniz
 * Sayfa geçişi için "2" bekleyiniz
 * Bilgileri Kaydet
-
+* Sayfa geçişi için "2" bekleyiniz
+* İşleri Bitir ve Uygulamayı Kapat
+* Sayfa geçişi için "2" bekleyiniz
 
 
 

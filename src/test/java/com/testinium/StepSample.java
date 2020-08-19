@@ -95,8 +95,12 @@ public class StepSample extends SamplePage {
             TimeUnit.SECONDS.sleep(1);
             MobileElement el11 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAddNewPassenger_etAddTCKN");
             el11.sendKeys(tc);
-
+            MobileElement el18 = (MobileElement) appiumDriver.findElementByXPath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup[3]/android.view.ViewGroup/android.view.ViewGroup/android.widget.CheckBox[2]");
+            el18.click();
         }
+
+
+
         @Step("Bilgileri Kaydet")
         public void kayit() throws InterruptedException {
             TimeUnit.SECONDS.sleep(1);
@@ -120,6 +124,17 @@ public class StepSample extends SamplePage {
         el14.click();
 
 
+    }
+    @Step("İşleri Bitir ve Uygulamayı Kapat")
+    public void sonIslem() throws InterruptedException {
+        MobileElement el15 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frPickPassenger_btnContinue");
+        el15.click();
+        TimeUnit.SECONDS.sleep(2);
+        MobileElement el16 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/toolbarBase_tvCancel");
+        el16.click();
+        TimeUnit.SECONDS.sleep(2);
+        MobileElement el17 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/dgBase_btnPositive");
+        el17.click();
     }
 
 
