@@ -1743,3 +1743,271 @@
 19-08-2020 15:16:50.915 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Yolcu Ekle Alan\304\261n\304\261n Bilgileriniz {},{},{},{},{}" parameterizedStepValue:"Yolcu Ekle Alan\304\261n\304\261n Bilgileriniz <Mert>,<YEN\304\260>,<05-02-1998>,<mertyeni@gmail.com>,<55972064536>" parameters:"Mert" parameters:"YEN\304\260" parameters:"05-02-1998" parameters:"mertyeni@gmail.com" parameters:"55972064536" > > 
 19-08-2020 15:16:57.219 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
 19-08-2020 15:16:57.221 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:19:36.294 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Son i\305\237lemleri yap ve bitir" > 
+19-08-2020 15:19:36.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Son i\305\237lemleri yap ve bitir" parameterizedStepValue:"Son i\305\237lemleri yap ve bitir" > > 
+19-08-2020 15:21:05.366 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237lr" > 
+19-08-2020 15:21:05.366 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237lr" parameterizedStepValue:"\304\260\305\237lr" > > 
+19-08-2020 15:21:05.933 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237ler" > 
+19-08-2020 15:21:05.933 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237ler" parameterizedStepValue:"\304\260\305\237ler" > > 
+19-08-2020 15:21:08.929 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri " > 
+19-08-2020 15:21:08.929 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri" parameterizedStepValue:"\304\260\305\237leri" > > 
+19-08-2020 15:21:10.036 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bi" > 
+19-08-2020 15:21:10.036 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bi" parameterizedStepValue:"\304\260\305\237leri Bi" > > 
+19-08-2020 15:21:11.047 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Biti" > 
+19-08-2020 15:21:11.047 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Biti" parameterizedStepValue:"\304\260\305\237leri Biti" > > 
+19-08-2020 15:21:12.620 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve " > 
+19-08-2020 15:21:12.620 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve" parameterizedStepValue:"\304\260\305\237leri Bitir ve" > > 
+19-08-2020 15:21:13.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve Uy" > 
+19-08-2020 15:21:13.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve Uy" parameterizedStepValue:"\304\260\305\237leri Bitir ve Uy" > > 
+19-08-2020 15:21:15.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve Uygulam\304\261y" > 
+19-08-2020 15:21:15.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve Uygulam\304\261y" parameterizedStepValue:"\304\260\305\237leri Bitir ve Uygulam\304\261y" > > 
+19-08-2020 15:21:17.991 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve Uygulama" > 
+19-08-2020 15:21:17.991 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve Uygulama" parameterizedStepValue:"\304\260\305\237leri Bitir ve Uygulama" > > 
+19-08-2020 15:21:18.847 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve Uygulamay\304\261" > 
+19-08-2020 15:21:18.847 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261" parameterizedStepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261" > > 
+19-08-2020 15:21:19.378 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve Uygulamay\304\261 " > 
+19-08-2020 15:21:19.378 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261" parameterizedStepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261" > > 
+19-08-2020 15:21:20.149 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve Uygulamay\304\261 Ka" > 
+19-08-2020 15:21:20.149 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261 Ka" parameterizedStepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261 Ka" > > 
+19-08-2020 15:21:21.321 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260\305\237leri Bitir ve Uygulamay\304\261 Kapat" > 
+19-08-2020 15:21:21.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261 Kapat" parameterizedStepValue:"\304\260\305\237leri Bitir ve Uygulamay\304\261 Kapat" > > 
+19-08-2020 15:21:30.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:21:30.505 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:21:30.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:21:30.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:21:30.517 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:21:30.517 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:21:30.539 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:21:30.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:21:30.540 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:21:30.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:21:36.123 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:21:36.125 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:21:39.399 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:21:39.403 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:21:49.077 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:21:49.079 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:29:22.982 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\a.cpt
+19-08-2020 15:29:23.003 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\a.cpt
+19-08-2020 15:29:23.008 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\a.cpt
+19-08-2020 15:29:23.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step1" > 
+19-08-2020 15:29:23.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+19-08-2020 15:29:23.676 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Concept Heading" > 
+19-08-2020 15:29:23.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > > 
+19-08-2020 15:29:23.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step2" > 
+19-08-2020 15:29:23.682 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+19-08-2020 15:30:41.614 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:30:41.616 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:30:42.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.339 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.341 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.341 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.344 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.344 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.366 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.366 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.367 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Birinci Sayfa \304\260\305\237lemleri" > 
+19-08-2020 15:30:42.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Birinci Sayfa \304\260\305\237lemleri" parameterizedStepValue:"Birinci Sayfa \304\260\305\237lemleri" > > 
+19-08-2020 15:30:42.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.452 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.453 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.453 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.504 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.505 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.505 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.508 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.508 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.509 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:42.552 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:42.552 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:43.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:43.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:43.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:43.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:43.969 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:43.969 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:44.325 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Sayfa ge\303\247i\305\237i i\303\247in \"2\" bekleyiniz" > 
+19-08-2020 15:30:44.325 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Sayfa ge\303\247i\305\237i i\303\247in {} bekleyiniz" parameterizedStepValue:"* Sayfa ge\303\247i\305\237i i\303\247in <2> bekleyiniz" parameters:"2" > > 
+19-08-2020 15:30:45.886 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.896 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.896 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.915 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.915 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.916 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.916 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.954 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.954 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.986 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:45.988 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:45.988 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.041 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.041 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.063 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.064 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.064 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.064 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.064 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.105 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:46.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:46.118 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:52.898 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:52.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:52.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:52.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:52.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:52.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:52.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:52.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:52.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:52.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:52.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:52.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:52.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:52.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.016 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.016 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.016 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.016 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.017 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.047 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.047 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.048 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.048 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.081 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.082 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.082 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.082 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.082 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.126 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.126 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.146 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.146 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:53.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:30:53.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:30:54.227 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Birinci Sayfa \304\260\305\237lemleri" > 
+19-08-2020 15:30:54.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Birinci Sayfa \304\260\305\237lemleri" parameterizedStepValue:"Birinci Sayfa \304\260\305\237lemleri" > > 
+19-08-2020 15:32:20.699 [Gauge] [INFO] Concept file removed: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\a.cpt
+19-08-2020 15:32:20.699 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\BirinciSayfa.cpt
+19-08-2020 15:32:47.044 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\İkinciSayfa.cpt
+19-08-2020 15:32:47.054 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\İkinciSayfa.cpt
+19-08-2020 15:32:47.058 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\İkinciSayfa.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\BirinciSayfa.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-08-2020 15:32:47.059 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\İkinciSayfa.cpt
+19-08-2020 15:33:22.091 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.091 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.097 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.130 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.130 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.131 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.132 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" \304\260kinci Sayfa \304\260\305\237lemleri" > 
+19-08-2020 15:33:22.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260kinci Sayfa \304\260\305\237lemleri" parameterizedStepValue:"\304\260kinci Sayfa \304\260\305\237lemleri" > > 
+19-08-2020 15:33:22.178 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.179 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.179 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.180 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.180 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.181 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.218 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.218 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.218 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.218 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.218 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.588 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.612 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.612 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:33:22.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:33:22.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\304\260kinci Sayfa \304\260\305\237lemleri" > 
+19-08-2020 15:33:22.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\304\260kinci Sayfa \304\260\305\237lemleri" parameterizedStepValue:"\304\260kinci Sayfa \304\260\305\237lemleri" > > 
+19-08-2020 15:34:36.232 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\UcuncuSayfa.cpt
+19-08-2020 15:34:36.248 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\UcuncuSayfa.cpt
+19-08-2020 15:34:36.250 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\UcuncuSayfa.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\İkinciSayfa.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-08-2020 15:34:36.250 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\UcuncuSayfa.cpt
+19-08-2020 15:35:03.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.477 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.484 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.485 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.486 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.860 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.863 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.866 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.869 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.869 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:03.884 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+19-08-2020 15:35:03.884 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+19-08-2020 15:35:04.243 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234\303\247\303\274nc\303\274 Sayfa \304\260\305\237lemleri" > 
+19-08-2020 15:35:04.243 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234\303\247\303\274nc\303\274 Sayfa \304\260\305\237lemleri" parameterizedStepValue:"\303\234\303\247\303\274nc\303\274 Sayfa \304\260\305\237lemleri" > > 
+19-08-2020 15:35:04.329 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" \303\234\303\247\303\274nc\303\274 Sayfa \304\260\305\237lemleri" > 
+19-08-2020 15:35:04.329 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234\303\247\303\274nc\303\274 Sayfa \304\260\305\237lemleri" parameterizedStepValue:"\303\234\303\247\303\274nc\303\274 Sayfa \304\260\305\237lemleri" > > 
+19-08-2020 15:35:43.681 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\UcuncuSayfa.cpt
+19-08-2020 15:35:43.682 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\UcuncuSayfa.cpt
+19-08-2020 15:35:43.685 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:35:43.686 [Gauge] [INFO] Spec file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\SampleSenario.spec
+19-08-2020 15:35:43.689 [Gauge] [INFO] Concept file added / modified: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\specs\İkinciSayfa.cpt
