@@ -22,6 +22,19 @@ import org.slf4j.LoggerFactory;
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+
+
+        }
+            @Step("Nereden <bulundugunYer> Nereye <gidecegiYer>")
+            public void ucusGuzergahi(String gidecegiYer, String bulundugunYer){
+            appiumDriver.findElement(By.id("com.turkishairlines.mobile:id/frDashboard_tvFromCode")).click();
+            MobileElement el1 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAirportSelection_etSearch");
+            el1.sendKeys(bulundugunYer);
+            appiumDriver.findElement(By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]")).click();
+            appiumDriver.findElement(By.id("com.turkishairlines.mobile:id/frDashboard_tvToCode")).click();
+            MobileElement el2 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAirportSelection_etSearch");
+            el2.sendKeys(gidecegiYer);
+            appiumDriver.findElement(By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]")).click();
         }
        
 

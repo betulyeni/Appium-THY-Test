@@ -10,3 +10,7 @@ Appium THY Test
 ----------------
 * Sayfa geçişi için "2" bekleyiniz
 * Bilet seçimi için yeni sayfaya aktırılacaksınız
+* Sayfa geçişi için "2" bekleyiniz
+* Nereden "SAW" Nereye "ESB"
+* Sayfa geçişi için "2" bekleyiniz
+
