@@ -84,9 +84,6 @@ public class StepSample extends SamplePage {
             MobileElement el6 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAddNewPassenger_etAddLastName");
             el6.sendKeys(soyIsim);
             TimeUnit.SECONDS.sleep(1);
-            MobileElement el7 = (MobileElement) appiumDriver.findElementByXPath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.widget.CheckBox[2]");
-            el7.click();
-            TimeUnit.SECONDS.sleep(1);
             MobileElement el8 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAddNewPassenger_etAddDateOfBirth");
             el8.sendKeys(dGunu);
             TimeUnit.SECONDS.sleep(1);
@@ -98,20 +95,44 @@ public class StepSample extends SamplePage {
             TimeUnit.SECONDS.sleep(1);
             MobileElement el11 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAddNewPassenger_etAddTCKN");
             el11.sendKeys(tc);
+
+        }
+        @Step("Bilgileri Kaydet")
+        public void kayit() throws InterruptedException {
             TimeUnit.SECONDS.sleep(1);
             MobileElement el12 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAddNewPassenger_btnAddPassenger");
             el12.click();
-
+        }
+        @Step("Cinsiyet Secimi <E/K> (Erkek için 1 - Kadın için 2) Seçiniz")
+            public void cinsiyetBelireyiniz(String sayi) {
+            MobileElement el7 = (MobileElement) appiumDriver.findElementByXPath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.widget.CheckBox["+sayi+"]");
+            el7.click();
         }
 
-
-
-
-
-
+    @Step("Bir Sonraki Yolcu Seçimi İçin Tıkla")
+    public void okBtn(){
+        MobileElement el13 = (MobileElement) appiumDriver.findElementByXPath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout[1]/android.widget.ExpandableListView/android.widget.RelativeLayout[4]/android.widget.RelativeLayout/android.widget.ImageView");
+        el13.click();
+    }
+    @Step("İkinci Yolcuyu Ekleyiniz")
+    public void kayitBtn(){
+        MobileElement el14 = (MobileElement) appiumDriver.findElementByXPath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout[1]/android.widget.ExpandableListView/android.widget.RelativeLayout[5]/android.widget.RelativeLayout/android.widget.TextView[1]");
+        el14.click();
 
 
     }
+
+
+
+
+
+
+
+
+
+
+
+}
 
 
 

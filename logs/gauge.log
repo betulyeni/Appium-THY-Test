@@ -4161,3 +4161,1014 @@ Total time taken: 54.144s
 19-08-2020 14:47:11.141 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
 19-08-2020 14:47:11.148 [Gauge] [INFO] 
 Total time taken: 59.189s
+19-08-2020 14:57:21.256 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 14:57:21.267 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 14:57:21.268 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 14:57:21.271 [Gauge] [DEBUG] Parsing started.
+19-08-2020 14:57:21.271 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 14:57:21.287 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 14:57:21.287 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 14:57:21.289 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 14:57:21.297 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 14:57:21.339 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 14:57:21.339 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 14:57:21.339 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 14:57:21.339 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 14:57:21.339 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 14:57:21.339 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 14:57:21.339 [java] [DEBUG] overwrite_reports: true
+19-08-2020 14:57:21.339 [java] [DEBUG] logs_directory: logs
+19-08-2020 14:57:21.339 [java] [DEBUG] enable_multithreading: false
+19-08-2020 14:57:21.339 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 14:57:21.339 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 14:57:21.339 [java] [DEBUG] gauge_java_home: 
+19-08-2020 14:57:21.340 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 14:57:21.340 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 14:57:21.340 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 14:57:21.340 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 14:57:21.340 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 14:57:21.340 [java] [DEBUG] ***** END *****
+19-08-2020 14:57:21.742 [Gauge] [DEBUG] Checking updates...
+19-08-2020 14:57:21.750 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:22.250 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:22.420 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:22.602 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:22.754 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:22.991 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:23.148 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:23.311 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:57:27.209 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 14:57:27.339 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 14:57:27.339 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 14:57:27.339 [java] [DEBUG] stdout/stderr is logged to logs\16544-java.exe.out
+19-08-2020 14:57:27.604 [java] [DEBUG] multithreading is set to false
+19-08-2020 14:57:28.167 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 14:57:28.277 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 14:57:28.277 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 14:57:28.277 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 14:57:28.976 [java] [DEBUG] gauge-java took 1371milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 14:57:28.976 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1371
+19-08-2020 14:57:28.976 [java] [DEBUG] starting gRPC server...
+19-08-2020 14:57:29.629 [java] [DEBUG] started gRPC server on port 57811
+19-08-2020 14:57:29.629 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57811
+19-08-2020 14:57:30.172 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57811
+19-08-2020 14:57:30.172 [Gauge] [DEBUG] Validation started.
+19-08-2020 14:57:34.852 [java] [DEBUG] Scanning packages for steps
+19-08-2020 14:57:34.896 [java] [DEBUG] Comparing 'com.testinium.StepSample.cinsiyetBelireyiniz' and 'com.testinium.StepSample.cinsiyetBelireyiniz'
+19-08-2020 14:57:34.897 [java] [DEBUG] Found Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz in current project scope.
+19-08-2020 14:57:34.897 [java] [DEBUG] Comparing 'com.testinium.StepSample.yolcuEkle' and 'com.testinium.StepSample.yolcuEkle'
+19-08-2020 14:57:34.897 [java] [DEBUG] Found Ilk Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 14:57:34.898 [java] [DEBUG] Comparing 'com.testinium.StepSample.biletSecimi' and 'com.testinium.StepSample.biletSecimi'
+19-08-2020 14:57:34.898 [java] [DEBUG] Found Bilet seçimi için yeni sayfaya aktırılacaksınız in current project scope.
+19-08-2020 14:57:34.898 [java] [DEBUG] Comparing 'com.testinium.StepSample.UcusSecenegi' and 'com.testinium.StepSample.UcusSecenegi'
+19-08-2020 14:57:34.898 [java] [DEBUG] Found Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) in current project scope.
+19-08-2020 14:57:34.898 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayitBtn' and 'com.testinium.StepSample.kayitBtn'
+19-08-2020 14:57:34.899 [java] [DEBUG] Found İkinci Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 14:57:34.899 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusBtn' and 'com.testinium.StepSample.ucusBtn'
+19-08-2020 14:57:34.899 [java] [DEBUG] Found Uçuş Ara Butonuna Tıklanır in current project scope.
+19-08-2020 14:57:34.899 [java] [DEBUG] Comparing 'com.testinium.StepSample.bekleyiniz' and 'com.testinium.StepSample.bekleyiniz'
+19-08-2020 14:57:34.899 [java] [DEBUG] Found Sayfa geçişi için {} bekleyiniz in current project scope.
+19-08-2020 14:57:34.900 [java] [DEBUG] Comparing 'com.testinium.StepSample.bilgiGirisi' and 'com.testinium.StepSample.bilgiGirisi'
+19-08-2020 14:57:34.900 [java] [DEBUG] Found Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} in current project scope.
+19-08-2020 14:57:34.900 [java] [DEBUG] Comparing 'com.testinium.StepSample.yetiskinBilgisi' and 'com.testinium.StepSample.yetiskinBilgisi'
+19-08-2020 14:57:34.900 [java] [DEBUG] Found Yetişkin Yolcu Sayısını Değiştirme in current project scope.
+19-08-2020 14:57:34.901 [java] [DEBUG] Comparing 'com.testinium.StepSample.ekonomikUcusSecimi' and 'com.testinium.StepSample.ekonomikUcusSecimi'
+19-08-2020 14:57:34.901 [java] [DEBUG] Found Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır in current project scope.
+19-08-2020 14:57:34.901 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusGuzergahi' and 'com.testinium.StepSample.ucusGuzergahi'
+19-08-2020 14:57:34.901 [java] [DEBUG] Found Nereden {} Nereye {} in current project scope.
+19-08-2020 14:57:34.901 [java] [DEBUG] Comparing 'com.testinium.StepSample.okBtn' and 'com.testinium.StepSample.okBtn'
+19-08-2020 14:57:34.901 [java] [DEBUG] Found Bir Sonraki Yolcu Seçimi İçin Tıkla in current project scope.
+19-08-2020 14:57:34.901 [java] [DEBUG] Comparing 'com.testinium.StepSample.tarihiSecimi' and 'com.testinium.StepSample.tarihiSecimi'
+19-08-2020 14:57:34.901 [java] [DEBUG] Found Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir in current project scope.
+19-08-2020 14:57:34.902 [java] [DEBUG] Scanning packages for hooks
+19-08-2020 14:57:34.921 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir : public void tarihiSecimi()
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Sayfa geçişi için {} bekleyiniz : public void bekleyiniz(ınt saniye)
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Yetişkin Yolcu Sayısını Değiştirme : public void yetiskinBilgisi()
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} : public void bilgiGirisi(String isim, String soyIsim, String dGunu, String eMail, String tc) throws InterruptedException
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) : public void UcusSecenegi()
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Bilet seçimi için yeni sayfaya aktırılacaksınız : public void biletSecimi()
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Uçuş Ara Butonuna Tıklanır : public void ucusBtn()
+19-08-2020 14:57:34.922 [java] [DEBUG] 	Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır : public void ekonomikUcusSecimi()
+19-08-2020 14:57:34.922 [java] [DEBUG] 	İkinci Yolcuyu Ekleyiniz : public void kayitBtn()
+19-08-2020 14:57:34.923 [java] [DEBUG] 	Ilk Yolcuyu Ekleyiniz : public void yolcuEkle()
+19-08-2020 14:57:34.923 [java] [DEBUG] 	Nereden {} Nereye {} : public void ucusGuzergahi(String gidecegiYer, String bulundugunYer) throws InterruptedException
+19-08-2020 14:57:34.923 [java] [DEBUG] 	Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz : public void cinsiyetBelireyiniz(String sayi)
+19-08-2020 14:57:34.923 [java] [DEBUG] 	Bir Sonraki Yolcu Seçimi İçin Tıkla : public void okBtn()
+19-08-2020 14:57:41.236 [Gauge] [DEBUG] Validation completed.
+19-08-2020 14:57:41.248 [Gauge] [DEBUG] Run started
+19-08-2020 14:57:41.255 [Gauge] [DEBUG] Starting Html Report plugin
+19-08-2020 14:57:41.435 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57936
+19-08-2020 14:57:41.448 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57936
+19-08-2020 14:57:41.449 [Gauge] [DEBUG] Initialising suite data store.
+19-08-2020 14:57:41.570 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 14:57:41.570 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 14:57:58.112 [java] [ERROR] Ağu 19, 2020 2:57:58 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+19-08-2020 14:57:58.113 [java] [ERROR] INFO: Detected dialect: W3C
+19-08-2020 14:57:58.252 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 14:58:00.288 [java] [DEBUG] Executing 'Bilet seçimi için yeni sayfaya aktırılacaksınız' using 'class com.testinium.StepSample.biletSecimi
+19-08-2020 14:58:00.461 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 14:58:02.471 [java] [DEBUG] Executing 'Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)' using 'class com.testinium.StepSample.UcusSecenegi
+19-08-2020 14:58:02.660 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 14:58:04.671 [java] [DEBUG] Executing 'Nereden {} Nereye {}' using 'class com.testinium.StepSample.ucusGuzergahi
+19-08-2020 14:58:13.395 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 14:59:55.821 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 14:59:55.829 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 14:59:55.831 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 14:59:55.833 [Gauge] [DEBUG] Parsing started.
+19-08-2020 14:59:55.833 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 14:59:55.864 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 14:59:55.864 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 14:59:55.870 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 14:59:55.878 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 14:59:55.971 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 14:59:55.971 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 14:59:55.972 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 14:59:55.972 [java] [DEBUG] overwrite_reports: true
+19-08-2020 14:59:55.972 [java] [DEBUG] logs_directory: logs
+19-08-2020 14:59:55.972 [java] [DEBUG] enable_multithreading: false
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 14:59:55.972 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_java_home: 
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 14:59:55.972 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 14:59:55.972 [java] [DEBUG] ***** END *****
+19-08-2020 14:59:56.236 [Gauge] [DEBUG] Checking updates...
+19-08-2020 14:59:56.239 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:59:56.820 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:59:57.044 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:59:57.200 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:59:57.344 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:59:57.498 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:59:57.687 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 14:59:57.853 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:00:06.411 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 15:00:06.544 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 15:00:06.544 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 15:00:06.544 [java] [DEBUG] stdout/stderr is logged to logs\18624-java.exe.out
+19-08-2020 15:00:06.785 [java] [DEBUG] multithreading is set to false
+19-08-2020 15:00:07.335 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 15:00:07.456 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 15:00:07.456 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 15:00:07.456 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 15:00:08.117 [java] [DEBUG] gauge-java took 1332milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 15:00:08.117 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1332
+19-08-2020 15:00:08.117 [java] [DEBUG] starting gRPC server...
+19-08-2020 15:00:08.825 [java] [DEBUG] started gRPC server on port 59470
+19-08-2020 15:00:08.825 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59470
+19-08-2020 15:00:09.269 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59470
+19-08-2020 15:00:09.270 [Gauge] [DEBUG] Validation started.
+19-08-2020 15:00:15.018 [java] [DEBUG] Scanning packages for steps
+19-08-2020 15:00:15.075 [java] [DEBUG] Comparing 'com.testinium.StepSample.cinsiyetBelireyiniz' and 'com.testinium.StepSample.cinsiyetBelireyiniz'
+19-08-2020 15:00:15.076 [java] [DEBUG] Found Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz in current project scope.
+19-08-2020 15:00:15.076 [java] [DEBUG] Comparing 'com.testinium.StepSample.yolcuEkle' and 'com.testinium.StepSample.yolcuEkle'
+19-08-2020 15:00:15.076 [java] [DEBUG] Found Ilk Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:00:15.076 [java] [DEBUG] Comparing 'com.testinium.StepSample.biletSecimi' and 'com.testinium.StepSample.biletSecimi'
+19-08-2020 15:00:15.076 [java] [DEBUG] Found Bilet seçimi için yeni sayfaya aktırılacaksınız in current project scope.
+19-08-2020 15:00:15.077 [java] [DEBUG] Comparing 'com.testinium.StepSample.UcusSecenegi' and 'com.testinium.StepSample.UcusSecenegi'
+19-08-2020 15:00:15.077 [java] [DEBUG] Found Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) in current project scope.
+19-08-2020 15:00:15.077 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayit' and 'com.testinium.StepSample.kayit'
+19-08-2020 15:00:15.077 [java] [DEBUG] Found Bilgileri Kaydet in current project scope.
+19-08-2020 15:00:15.077 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayitBtn' and 'com.testinium.StepSample.kayitBtn'
+19-08-2020 15:00:15.077 [java] [DEBUG] Found İkinci Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:00:15.077 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusBtn' and 'com.testinium.StepSample.ucusBtn'
+19-08-2020 15:00:15.078 [java] [DEBUG] Found Uçuş Ara Butonuna Tıklanır in current project scope.
+19-08-2020 15:00:15.078 [java] [DEBUG] Comparing 'com.testinium.StepSample.bekleyiniz' and 'com.testinium.StepSample.bekleyiniz'
+19-08-2020 15:00:15.078 [java] [DEBUG] Found Sayfa geçişi için {} bekleyiniz in current project scope.
+19-08-2020 15:00:15.078 [java] [DEBUG] Comparing 'com.testinium.StepSample.bilgiGirisi' and 'com.testinium.StepSample.bilgiGirisi'
+19-08-2020 15:00:15.078 [java] [DEBUG] Found Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} in current project scope.
+19-08-2020 15:00:15.078 [java] [DEBUG] Comparing 'com.testinium.StepSample.yetiskinBilgisi' and 'com.testinium.StepSample.yetiskinBilgisi'
+19-08-2020 15:00:15.079 [java] [DEBUG] Found Yetişkin Yolcu Sayısını Değiştirme in current project scope.
+19-08-2020 15:00:15.079 [java] [DEBUG] Comparing 'com.testinium.StepSample.ekonomikUcusSecimi' and 'com.testinium.StepSample.ekonomikUcusSecimi'
+19-08-2020 15:00:15.079 [java] [DEBUG] Found Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır in current project scope.
+19-08-2020 15:00:15.079 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusGuzergahi' and 'com.testinium.StepSample.ucusGuzergahi'
+19-08-2020 15:00:15.079 [java] [DEBUG] Found Nereden {} Nereye {} in current project scope.
+19-08-2020 15:00:15.079 [java] [DEBUG] Comparing 'com.testinium.StepSample.okBtn' and 'com.testinium.StepSample.okBtn'
+19-08-2020 15:00:15.080 [java] [DEBUG] Found Bir Sonraki Yolcu Seçimi İçin Tıkla in current project scope.
+19-08-2020 15:00:15.080 [java] [DEBUG] Comparing 'com.testinium.StepSample.tarihiSecimi' and 'com.testinium.StepSample.tarihiSecimi'
+19-08-2020 15:00:15.080 [java] [DEBUG] Found Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir in current project scope.
+19-08-2020 15:00:15.080 [java] [DEBUG] Scanning packages for hooks
+19-08-2020 15:00:15.091 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-08-2020 15:00:15.091 [java] [DEBUG] 	Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir : public void tarihiSecimi()
+19-08-2020 15:00:15.091 [java] [DEBUG] 	Sayfa geçişi için {} bekleyiniz : public void bekleyiniz(ınt saniye)
+19-08-2020 15:00:15.091 [java] [DEBUG] 	Yetişkin Yolcu Sayısını Değiştirme : public void yetiskinBilgisi()
+19-08-2020 15:00:15.091 [java] [DEBUG] 	Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} : public void bilgiGirisi(String isim, String soyIsim, String dGunu, String eMail, String tc) throws InterruptedException
+19-08-2020 15:00:15.091 [java] [DEBUG] 	Bilgileri Kaydet : public void kayit() throws InterruptedException
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) : public void UcusSecenegi()
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Bilet seçimi için yeni sayfaya aktırılacaksınız : public void biletSecimi()
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Uçuş Ara Butonuna Tıklanır : public void ucusBtn()
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır : public void ekonomikUcusSecimi()
+19-08-2020 15:00:15.092 [java] [DEBUG] 	İkinci Yolcuyu Ekleyiniz : public void kayitBtn()
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Ilk Yolcuyu Ekleyiniz : public void yolcuEkle()
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Nereden {} Nereye {} : public void ucusGuzergahi(String gidecegiYer, String bulundugunYer) throws InterruptedException
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz : public void cinsiyetBelireyiniz(String sayi)
+19-08-2020 15:00:15.092 [java] [DEBUG] 	Bir Sonraki Yolcu Seçimi İçin Tıkla : public void okBtn()
+19-08-2020 15:00:22.005 [Gauge] [DEBUG] Validation completed.
+19-08-2020 15:00:22.009 [Gauge] [DEBUG] Run started
+19-08-2020 15:00:22.010 [Gauge] [DEBUG] Starting Html Report plugin
+19-08-2020 15:00:22.038 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59610
+19-08-2020 15:00:22.039 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59610
+19-08-2020 15:00:22.040 [Gauge] [DEBUG] Initialising suite data store.
+19-08-2020 15:00:22.120 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:00:22.121 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:00:37.803 [java] [ERROR] Ağu 19, 2020 3:00:37 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+19-08-2020 15:00:37.803 [java] [ERROR] INFO: Detected dialect: W3C
+19-08-2020 15:00:38.020 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:00:40.053 [java] [DEBUG] Executing 'Bilet seçimi için yeni sayfaya aktırılacaksınız' using 'class com.testinium.StepSample.biletSecimi
+19-08-2020 15:00:40.208 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:00:42.219 [java] [DEBUG] Executing 'Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)' using 'class com.testinium.StepSample.UcusSecenegi
+19-08-2020 15:00:42.441 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:00:44.457 [java] [DEBUG] Executing 'Nereden {} Nereye {}' using 'class com.testinium.StepSample.ucusGuzergahi
+19-08-2020 15:00:52.041 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:00:54.051 [java] [DEBUG] Executing 'Yetişkin Yolcu Sayısını Değiştirme' using 'class com.testinium.StepSample.yetiskinBilgisi
+19-08-2020 15:00:55.028 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:00:57.036 [java] [DEBUG] Executing 'Uçuş Ara Butonuna Tıklanır' using 'class com.testinium.StepSample.ucusBtn
+19-08-2020 15:00:57.137 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:00:59.146 [java] [DEBUG] Executing 'Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir' using 'class com.testinium.StepSample.tarihiSecimi
+19-08-2020 15:01:01.179 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:01:03.188 [java] [DEBUG] Executing 'Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır' using 'class com.testinium.StepSample.ekonomikUcusSecimi
+19-08-2020 15:01:05.395 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:01:07.402 [java] [DEBUG] Executing 'Ilk Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.yolcuEkle
+19-08-2020 15:01:07.672 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:01:09.683 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:01:19.644 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:01:21.651 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:01:21.902 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:01:23.908 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:01:24.970 [java] [DEBUG] Executing 'Bir Sonraki Yolcu Seçimi İçin Tıkla' using 'class com.testinium.StepSample.okBtn
+19-08-2020 15:01:27.945 [html-report] [DEBUG] Transformed SuiteResult to report structure
+19-08-2020 15:01:28.091 [html-report] [INFO] Successfully generated html-report to => C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\reports\html-report\index.html
+19-08-2020 15:01:28.091 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+19-08-2020 15:01:28.091 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+19-08-2020 15:01:29.013 [Gauge] [DEBUG] Runner with PID:18624 has exited
+19-08-2020 15:01:29.013 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:01:29.013 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:01:29.014 [Gauge] [INFO] 
+Total time taken: 1m5.928s
+19-08-2020 15:03:41.077 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 15:03:41.084 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 15:03:41.086 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 15:03:41.088 [Gauge] [DEBUG] Parsing started.
+19-08-2020 15:03:41.088 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 15:03:41.116 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 15:03:41.117 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 15:03:41.120 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 15:03:41.121 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 15:03:41.174 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 15:03:41.175 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 15:03:41.175 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 15:03:41.175 [java] [DEBUG] overwrite_reports: true
+19-08-2020 15:03:41.175 [java] [DEBUG] logs_directory: logs
+19-08-2020 15:03:41.175 [java] [DEBUG] enable_multithreading: false
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 15:03:41.175 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_java_home: 
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 15:03:41.175 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 15:03:41.175 [java] [DEBUG] ***** END *****
+19-08-2020 15:03:41.509 [Gauge] [DEBUG] Checking updates...
+19-08-2020 15:03:41.523 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:42.138 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:42.326 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:42.472 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:42.623 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:42.780 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:42.946 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:43.108 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:03:49.400 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 15:03:49.549 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 15:03:49.549 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 15:03:49.549 [java] [DEBUG] stdout/stderr is logged to logs\22188-java.exe.out
+19-08-2020 15:03:49.846 [java] [DEBUG] multithreading is set to false
+19-08-2020 15:03:50.506 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 15:03:50.648 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 15:03:50.648 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 15:03:50.648 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 15:03:51.779 [java] [DEBUG] gauge-java took 1933milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 15:03:51.779 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1933
+19-08-2020 15:03:51.779 [java] [DEBUG] starting gRPC server...
+19-08-2020 15:03:52.755 [java] [DEBUG] started gRPC server on port 61780
+19-08-2020 15:03:52.755 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61780
+19-08-2020 15:03:53.139 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61780
+19-08-2020 15:03:53.140 [Gauge] [DEBUG] Validation started.
+19-08-2020 15:03:58.702 [java] [DEBUG] Scanning packages for steps
+19-08-2020 15:03:58.749 [java] [DEBUG] Comparing 'com.testinium.StepSample.cinsiyetBelireyiniz' and 'com.testinium.StepSample.cinsiyetBelireyiniz'
+19-08-2020 15:03:58.749 [java] [DEBUG] Found Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz in current project scope.
+19-08-2020 15:03:58.749 [java] [DEBUG] Comparing 'com.testinium.StepSample.yolcuEkle' and 'com.testinium.StepSample.yolcuEkle'
+19-08-2020 15:03:58.749 [java] [DEBUG] Found Ilk Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:03:58.750 [java] [DEBUG] Comparing 'com.testinium.StepSample.biletSecimi' and 'com.testinium.StepSample.biletSecimi'
+19-08-2020 15:03:58.750 [java] [DEBUG] Found Bilet seçimi için yeni sayfaya aktırılacaksınız in current project scope.
+19-08-2020 15:03:58.750 [java] [DEBUG] Comparing 'com.testinium.StepSample.UcusSecenegi' and 'com.testinium.StepSample.UcusSecenegi'
+19-08-2020 15:03:58.750 [java] [DEBUG] Found Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) in current project scope.
+19-08-2020 15:03:58.750 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayit' and 'com.testinium.StepSample.kayit'
+19-08-2020 15:03:58.750 [java] [DEBUG] Found Bilgileri Kaydet in current project scope.
+19-08-2020 15:03:58.750 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayitBtn' and 'com.testinium.StepSample.kayitBtn'
+19-08-2020 15:03:58.750 [java] [DEBUG] Found İkinci Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:03:58.751 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusBtn' and 'com.testinium.StepSample.ucusBtn'
+19-08-2020 15:03:58.751 [java] [DEBUG] Found Uçuş Ara Butonuna Tıklanır in current project scope.
+19-08-2020 15:03:58.751 [java] [DEBUG] Comparing 'com.testinium.StepSample.bekleyiniz' and 'com.testinium.StepSample.bekleyiniz'
+19-08-2020 15:03:58.751 [java] [DEBUG] Found Sayfa geçişi için {} bekleyiniz in current project scope.
+19-08-2020 15:03:58.751 [java] [DEBUG] Comparing 'com.testinium.StepSample.bilgiGirisi' and 'com.testinium.StepSample.bilgiGirisi'
+19-08-2020 15:03:58.751 [java] [DEBUG] Found Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} in current project scope.
+19-08-2020 15:03:58.751 [java] [DEBUG] Comparing 'com.testinium.StepSample.yetiskinBilgisi' and 'com.testinium.StepSample.yetiskinBilgisi'
+19-08-2020 15:03:58.752 [java] [DEBUG] Found Yetişkin Yolcu Sayısını Değiştirme in current project scope.
+19-08-2020 15:03:58.753 [java] [DEBUG] Comparing 'com.testinium.StepSample.ekonomikUcusSecimi' and 'com.testinium.StepSample.ekonomikUcusSecimi'
+19-08-2020 15:03:58.753 [java] [DEBUG] Found Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır in current project scope.
+19-08-2020 15:03:58.753 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusGuzergahi' and 'com.testinium.StepSample.ucusGuzergahi'
+19-08-2020 15:03:58.753 [java] [DEBUG] Found Nereden {} Nereye {} in current project scope.
+19-08-2020 15:03:58.753 [java] [DEBUG] Comparing 'com.testinium.StepSample.okBtn' and 'com.testinium.StepSample.okBtn'
+19-08-2020 15:03:58.753 [java] [DEBUG] Found Bir Sonraki Yolcu Seçimi İçin Tıkla in current project scope.
+19-08-2020 15:03:58.753 [java] [DEBUG] Comparing 'com.testinium.StepSample.tarihiSecimi' and 'com.testinium.StepSample.tarihiSecimi'
+19-08-2020 15:03:58.753 [java] [DEBUG] Found Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir in current project scope.
+19-08-2020 15:03:58.753 [java] [DEBUG] Scanning packages for hooks
+19-08-2020 15:03:58.763 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-08-2020 15:03:58.763 [java] [DEBUG] 	Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir : public void tarihiSecimi()
+19-08-2020 15:03:58.763 [java] [DEBUG] 	Sayfa geçişi için {} bekleyiniz : public void bekleyiniz(ınt saniye)
+19-08-2020 15:03:58.763 [java] [DEBUG] 	Yetişkin Yolcu Sayısını Değiştirme : public void yetiskinBilgisi()
+19-08-2020 15:03:58.763 [java] [DEBUG] 	Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} : public void bilgiGirisi(String isim, String soyIsim, String dGunu, String eMail, String tc) throws InterruptedException
+19-08-2020 15:03:58.763 [java] [DEBUG] 	Bilgileri Kaydet : public void kayit() throws InterruptedException
+19-08-2020 15:03:58.763 [java] [DEBUG] 	Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) : public void UcusSecenegi()
+19-08-2020 15:03:58.764 [java] [DEBUG] 	Bilet seçimi için yeni sayfaya aktırılacaksınız : public void biletSecimi()
+19-08-2020 15:03:58.764 [java] [DEBUG] 	Uçuş Ara Butonuna Tıklanır : public void ucusBtn()
+19-08-2020 15:03:58.764 [java] [DEBUG] 	Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır : public void ekonomikUcusSecimi()
+19-08-2020 15:03:58.764 [java] [DEBUG] 	İkinci Yolcuyu Ekleyiniz : public void kayitBtn()
+19-08-2020 15:03:58.764 [java] [DEBUG] 	Ilk Yolcuyu Ekleyiniz : public void yolcuEkle()
+19-08-2020 15:03:58.764 [java] [DEBUG] 	Nereden {} Nereye {} : public void ucusGuzergahi(String gidecegiYer, String bulundugunYer) throws InterruptedException
+19-08-2020 15:03:58.764 [java] [DEBUG] 	Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz : public void cinsiyetBelireyiniz(String sayi)
+19-08-2020 15:03:58.764 [java] [DEBUG] 	Bir Sonraki Yolcu Seçimi İçin Tıkla : public void okBtn()
+19-08-2020 15:04:05.259 [Gauge] [DEBUG] Validation completed.
+19-08-2020 15:04:05.262 [Gauge] [DEBUG] Run started
+19-08-2020 15:04:05.264 [Gauge] [DEBUG] Starting Html Report plugin
+19-08-2020 15:04:05.304 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61897
+19-08-2020 15:04:05.305 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61897
+19-08-2020 15:04:05.305 [Gauge] [DEBUG] Initialising suite data store.
+19-08-2020 15:04:05.387 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:04:05.387 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:04:23.359 [java] [ERROR] Ağu 19, 2020 3:04:23 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+19-08-2020 15:04:23.362 [java] [ERROR] INFO: Detected dialect: W3C
+19-08-2020 15:04:23.502 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:25.528 [java] [DEBUG] Executing 'Bilet seçimi için yeni sayfaya aktırılacaksınız' using 'class com.testinium.StepSample.biletSecimi
+19-08-2020 15:04:25.706 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:27.731 [java] [DEBUG] Executing 'Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)' using 'class com.testinium.StepSample.UcusSecenegi
+19-08-2020 15:04:28.238 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:30.254 [java] [DEBUG] Executing 'Nereden {} Nereye {}' using 'class com.testinium.StepSample.ucusGuzergahi
+19-08-2020 15:04:37.477 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:39.483 [java] [DEBUG] Executing 'Yetişkin Yolcu Sayısını Değiştirme' using 'class com.testinium.StepSample.yetiskinBilgisi
+19-08-2020 15:04:40.652 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:42.661 [java] [DEBUG] Executing 'Uçuş Ara Butonuna Tıklanır' using 'class com.testinium.StepSample.ucusBtn
+19-08-2020 15:04:42.756 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:44.785 [java] [DEBUG] Executing 'Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir' using 'class com.testinium.StepSample.tarihiSecimi
+19-08-2020 15:04:46.009 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:48.020 [java] [DEBUG] Executing 'Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır' using 'class com.testinium.StepSample.ekonomikUcusSecimi
+19-08-2020 15:04:50.213 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:52.226 [java] [DEBUG] Executing 'Ilk Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.yolcuEkle
+19-08-2020 15:04:52.533 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:04:54.555 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:05:04.725 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:05:06.731 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:05:06.956 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:05:08.963 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:05:10.023 [java] [DEBUG] Executing 'Bir Sonraki Yolcu Seçimi İçin Tıkla' using 'class com.testinium.StepSample.okBtn
+19-08-2020 15:05:14.435 [html-report] [DEBUG] Transformed SuiteResult to report structure
+19-08-2020 15:05:17.061 [html-report] [INFO] Successfully generated html-report to => C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\reports\html-report\index.html
+19-08-2020 15:05:17.061 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+19-08-2020 15:05:17.068 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+19-08-2020 15:05:18.977 [Gauge] [DEBUG] Runner with PID:22188 has exited
+19-08-2020 15:05:18.978 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:05:18.978 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:05:18.979 [Gauge] [INFO] 
+Total time taken: 1m8.94s
+19-08-2020 15:06:34.623 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 15:06:34.630 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 15:06:34.631 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 15:06:34.633 [Gauge] [DEBUG] Parsing started.
+19-08-2020 15:06:34.633 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 15:06:34.648 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 15:06:34.649 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 15:06:34.652 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 15:06:34.653 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 15:06:34.712 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 15:06:34.712 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 15:06:34.712 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 15:06:34.712 [java] [DEBUG] overwrite_reports: true
+19-08-2020 15:06:34.712 [java] [DEBUG] logs_directory: logs
+19-08-2020 15:06:34.712 [java] [DEBUG] enable_multithreading: false
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 15:06:34.712 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_java_home: 
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 15:06:34.712 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 15:06:34.712 [java] [DEBUG] ***** END *****
+19-08-2020 15:06:35.050 [Gauge] [DEBUG] Checking updates...
+19-08-2020 15:06:35.059 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:35.557 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:35.803 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:35.947 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:36.087 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:36.246 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:36.397 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:36.572 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:06:41.429 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 15:06:41.566 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 15:06:41.566 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 15:06:41.566 [java] [DEBUG] stdout/stderr is logged to logs\20948-java.exe.out
+19-08-2020 15:06:41.858 [java] [DEBUG] multithreading is set to false
+19-08-2020 15:06:42.527 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 15:06:42.663 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 15:06:42.663 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 15:06:42.663 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 15:06:43.416 [java] [DEBUG] gauge-java took 1557milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 15:06:43.416 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1557
+19-08-2020 15:06:43.416 [java] [DEBUG] starting gRPC server...
+19-08-2020 15:06:44.110 [java] [DEBUG] started gRPC server on port 63548
+19-08-2020 15:06:44.110 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63548
+19-08-2020 15:06:44.453 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63548
+19-08-2020 15:06:44.453 [Gauge] [DEBUG] Validation started.
+19-08-2020 15:06:49.061 [java] [DEBUG] Scanning packages for steps
+19-08-2020 15:06:49.143 [java] [DEBUG] Comparing 'com.testinium.StepSample.cinsiyetBelireyiniz' and 'com.testinium.StepSample.cinsiyetBelireyiniz'
+19-08-2020 15:06:49.143 [java] [DEBUG] Found Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz in current project scope.
+19-08-2020 15:06:49.144 [java] [DEBUG] Comparing 'com.testinium.StepSample.yolcuEkle' and 'com.testinium.StepSample.yolcuEkle'
+19-08-2020 15:06:49.144 [java] [DEBUG] Found Ilk Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:06:49.144 [java] [DEBUG] Comparing 'com.testinium.StepSample.biletSecimi' and 'com.testinium.StepSample.biletSecimi'
+19-08-2020 15:06:49.144 [java] [DEBUG] Found Bilet seçimi için yeni sayfaya aktırılacaksınız in current project scope.
+19-08-2020 15:06:49.145 [java] [DEBUG] Comparing 'com.testinium.StepSample.UcusSecenegi' and 'com.testinium.StepSample.UcusSecenegi'
+19-08-2020 15:06:49.145 [java] [DEBUG] Found Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) in current project scope.
+19-08-2020 15:06:49.145 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayit' and 'com.testinium.StepSample.kayit'
+19-08-2020 15:06:49.145 [java] [DEBUG] Found Bilgileri Kaydet in current project scope.
+19-08-2020 15:06:49.146 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayitBtn' and 'com.testinium.StepSample.kayitBtn'
+19-08-2020 15:06:49.146 [java] [DEBUG] Found İkinci Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:06:49.146 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusBtn' and 'com.testinium.StepSample.ucusBtn'
+19-08-2020 15:06:49.146 [java] [DEBUG] Found Uçuş Ara Butonuna Tıklanır in current project scope.
+19-08-2020 15:06:49.146 [java] [DEBUG] Comparing 'com.testinium.StepSample.bekleyiniz' and 'com.testinium.StepSample.bekleyiniz'
+19-08-2020 15:06:49.146 [java] [DEBUG] Found Sayfa geçişi için {} bekleyiniz in current project scope.
+19-08-2020 15:06:49.147 [java] [DEBUG] Comparing 'com.testinium.StepSample.bilgiGirisi' and 'com.testinium.StepSample.bilgiGirisi'
+19-08-2020 15:06:49.147 [java] [DEBUG] Found Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} in current project scope.
+19-08-2020 15:06:49.147 [java] [DEBUG] Comparing 'com.testinium.StepSample.yetiskinBilgisi' and 'com.testinium.StepSample.yetiskinBilgisi'
+19-08-2020 15:06:49.147 [java] [DEBUG] Found Yetişkin Yolcu Sayısını Değiştirme in current project scope.
+19-08-2020 15:06:49.147 [java] [DEBUG] Comparing 'com.testinium.StepSample.ekonomikUcusSecimi' and 'com.testinium.StepSample.ekonomikUcusSecimi'
+19-08-2020 15:06:49.147 [java] [DEBUG] Found Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır in current project scope.
+19-08-2020 15:06:49.148 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusGuzergahi' and 'com.testinium.StepSample.ucusGuzergahi'
+19-08-2020 15:06:49.148 [java] [DEBUG] Found Nereden {} Nereye {} in current project scope.
+19-08-2020 15:06:49.148 [java] [DEBUG] Comparing 'com.testinium.StepSample.okBtn' and 'com.testinium.StepSample.okBtn'
+19-08-2020 15:06:49.148 [java] [DEBUG] Found Bir Sonraki Yolcu Seçimi İçin Tıkla in current project scope.
+19-08-2020 15:06:49.148 [java] [DEBUG] Comparing 'com.testinium.StepSample.tarihiSecimi' and 'com.testinium.StepSample.tarihiSecimi'
+19-08-2020 15:06:49.148 [java] [DEBUG] Found Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir in current project scope.
+19-08-2020 15:06:49.148 [java] [DEBUG] Scanning packages for hooks
+19-08-2020 15:06:49.165 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir : public void tarihiSecimi()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Sayfa geçişi için {} bekleyiniz : public void bekleyiniz(ınt saniye)
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Yetişkin Yolcu Sayısını Değiştirme : public void yetiskinBilgisi()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} : public void bilgiGirisi(String isim, String soyIsim, String dGunu, String eMail, String tc) throws InterruptedException
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Bilgileri Kaydet : public void kayit() throws InterruptedException
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) : public void UcusSecenegi()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Bilet seçimi için yeni sayfaya aktırılacaksınız : public void biletSecimi()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Uçuş Ara Butonuna Tıklanır : public void ucusBtn()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır : public void ekonomikUcusSecimi()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	İkinci Yolcuyu Ekleyiniz : public void kayitBtn()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Ilk Yolcuyu Ekleyiniz : public void yolcuEkle()
+19-08-2020 15:06:49.166 [java] [DEBUG] 	Nereden {} Nereye {} : public void ucusGuzergahi(String gidecegiYer, String bulundugunYer) throws InterruptedException
+19-08-2020 15:06:49.167 [java] [DEBUG] 	Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz : public void cinsiyetBelireyiniz(String sayi)
+19-08-2020 15:06:49.167 [java] [DEBUG] 	Bir Sonraki Yolcu Seçimi İçin Tıkla : public void okBtn()
+19-08-2020 15:06:54.515 [Gauge] [DEBUG] Validation completed.
+19-08-2020 15:06:54.518 [Gauge] [DEBUG] Run started
+19-08-2020 15:06:54.520 [Gauge] [DEBUG] Starting Html Report plugin
+19-08-2020 15:06:54.643 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63667
+19-08-2020 15:06:54.655 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63667
+19-08-2020 15:06:54.655 [Gauge] [DEBUG] Initialising suite data store.
+19-08-2020 15:06:54.746 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:06:54.746 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:07:09.965 [java] [ERROR] Ağu 19, 2020 3:07:09 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+19-08-2020 15:07:09.965 [java] [ERROR] INFO: Detected dialect: W3C
+19-08-2020 15:07:10.130 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:12.188 [java] [DEBUG] Executing 'Bilet seçimi için yeni sayfaya aktırılacaksınız' using 'class com.testinium.StepSample.biletSecimi
+19-08-2020 15:07:12.341 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:14.350 [java] [DEBUG] Executing 'Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)' using 'class com.testinium.StepSample.UcusSecenegi
+19-08-2020 15:07:14.495 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:16.505 [java] [DEBUG] Executing 'Nereden {} Nereye {}' using 'class com.testinium.StepSample.ucusGuzergahi
+19-08-2020 15:07:24.115 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:26.128 [java] [DEBUG] Executing 'Yetişkin Yolcu Sayısını Değiştirme' using 'class com.testinium.StepSample.yetiskinBilgisi
+19-08-2020 15:07:27.214 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:29.220 [java] [DEBUG] Executing 'Uçuş Ara Butonuna Tıklanır' using 'class com.testinium.StepSample.ucusBtn
+19-08-2020 15:07:29.308 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:31.319 [java] [DEBUG] Executing 'Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir' using 'class com.testinium.StepSample.tarihiSecimi
+19-08-2020 15:07:32.671 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:34.684 [java] [DEBUG] Executing 'Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır' using 'class com.testinium.StepSample.ekonomikUcusSecimi
+19-08-2020 15:07:37.012 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:39.019 [java] [DEBUG] Executing 'Ilk Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.yolcuEkle
+19-08-2020 15:07:39.275 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:41.298 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:07:50.026 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:52.046 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:07:52.362 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:07:54.373 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:07:55.429 [java] [DEBUG] Executing 'Bir Sonraki Yolcu Seçimi İçin Tıkla' using 'class com.testinium.StepSample.okBtn
+19-08-2020 15:07:58.105 [html-report] [DEBUG] Transformed SuiteResult to report structure
+19-08-2020 15:07:58.266 [html-report] [INFO] Successfully generated html-report to => C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\reports\html-report\index.html
+19-08-2020 15:07:58.266 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+19-08-2020 15:07:58.266 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+19-08-2020 15:07:59.677 [Gauge] [DEBUG] Runner with PID:20948 has exited
+19-08-2020 15:07:59.687 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:07:59.687 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:07:59.691 [Gauge] [INFO] 
+Total time taken: 1m3.575s
+19-08-2020 15:08:59.348 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 15:08:59.360 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 15:08:59.361 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 15:08:59.363 [Gauge] [DEBUG] Parsing started.
+19-08-2020 15:08:59.363 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 15:08:59.382 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 15:08:59.383 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 15:08:59.387 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 15:08:59.388 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 15:08:59.434 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 15:08:59.434 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 15:08:59.434 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 15:08:59.434 [java] [DEBUG] overwrite_reports: true
+19-08-2020 15:08:59.434 [java] [DEBUG] logs_directory: logs
+19-08-2020 15:08:59.434 [java] [DEBUG] enable_multithreading: false
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 15:08:59.434 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_java_home: 
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 15:08:59.434 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 15:08:59.434 [java] [DEBUG] ***** END *****
+19-08-2020 15:08:59.889 [Gauge] [DEBUG] Checking updates...
+19-08-2020 15:08:59.893 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:00.375 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:00.559 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:00.731 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:00.880 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:01.051 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:01.226 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:01.351 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:09:06.435 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 15:09:06.544 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 15:09:06.544 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 15:09:06.544 [java] [DEBUG] stdout/stderr is logged to logs\18480-java.exe.out
+19-08-2020 15:09:06.788 [java] [DEBUG] multithreading is set to false
+19-08-2020 15:09:07.398 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 15:09:07.523 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 15:09:07.523 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 15:09:07.523 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 15:09:08.218 [java] [DEBUG] gauge-java took 1429milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 15:09:08.218 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1429
+19-08-2020 15:09:08.218 [java] [DEBUG] starting gRPC server...
+19-08-2020 15:09:09.223 [java] [DEBUG] started gRPC server on port 65066
+19-08-2020 15:09:09.258 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 65066
+19-08-2020 15:09:09.790 [Gauge] [DEBUG] Successfully made the connection with runner with port: 65066
+19-08-2020 15:09:09.790 [Gauge] [DEBUG] Validation started.
+19-08-2020 15:09:15.178 [java] [DEBUG] Scanning packages for steps
+19-08-2020 15:09:15.246 [java] [DEBUG] Comparing 'com.testinium.StepSample.cinsiyetBelireyiniz' and 'com.testinium.StepSample.cinsiyetBelireyiniz'
+19-08-2020 15:09:15.246 [java] [DEBUG] Found Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz in current project scope.
+19-08-2020 15:09:15.247 [java] [DEBUG] Comparing 'com.testinium.StepSample.yolcuEkle' and 'com.testinium.StepSample.yolcuEkle'
+19-08-2020 15:09:15.247 [java] [DEBUG] Found Ilk Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:09:15.247 [java] [DEBUG] Comparing 'com.testinium.StepSample.biletSecimi' and 'com.testinium.StepSample.biletSecimi'
+19-08-2020 15:09:15.247 [java] [DEBUG] Found Bilet seçimi için yeni sayfaya aktırılacaksınız in current project scope.
+19-08-2020 15:09:15.248 [java] [DEBUG] Comparing 'com.testinium.StepSample.UcusSecenegi' and 'com.testinium.StepSample.UcusSecenegi'
+19-08-2020 15:09:15.248 [java] [DEBUG] Found Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) in current project scope.
+19-08-2020 15:09:15.248 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayit' and 'com.testinium.StepSample.kayit'
+19-08-2020 15:09:15.248 [java] [DEBUG] Found Bilgileri Kaydet in current project scope.
+19-08-2020 15:09:15.248 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayitBtn' and 'com.testinium.StepSample.kayitBtn'
+19-08-2020 15:09:15.248 [java] [DEBUG] Found İkinci Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:09:15.249 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusBtn' and 'com.testinium.StepSample.ucusBtn'
+19-08-2020 15:09:15.249 [java] [DEBUG] Found Uçuş Ara Butonuna Tıklanır in current project scope.
+19-08-2020 15:09:15.249 [java] [DEBUG] Comparing 'com.testinium.StepSample.bekleyiniz' and 'com.testinium.StepSample.bekleyiniz'
+19-08-2020 15:09:15.249 [java] [DEBUG] Found Sayfa geçişi için {} bekleyiniz in current project scope.
+19-08-2020 15:09:15.249 [java] [DEBUG] Comparing 'com.testinium.StepSample.bilgiGirisi' and 'com.testinium.StepSample.bilgiGirisi'
+19-08-2020 15:09:15.249 [java] [DEBUG] Found Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} in current project scope.
+19-08-2020 15:09:15.249 [java] [DEBUG] Comparing 'com.testinium.StepSample.yetiskinBilgisi' and 'com.testinium.StepSample.yetiskinBilgisi'
+19-08-2020 15:09:15.249 [java] [DEBUG] Found Yetişkin Yolcu Sayısını Değiştirme in current project scope.
+19-08-2020 15:09:15.249 [java] [DEBUG] Comparing 'com.testinium.StepSample.ekonomikUcusSecimi' and 'com.testinium.StepSample.ekonomikUcusSecimi'
+19-08-2020 15:09:15.249 [java] [DEBUG] Found Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır in current project scope.
+19-08-2020 15:09:15.249 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusGuzergahi' and 'com.testinium.StepSample.ucusGuzergahi'
+19-08-2020 15:09:15.249 [java] [DEBUG] Found Nereden {} Nereye {} in current project scope.
+19-08-2020 15:09:15.250 [java] [DEBUG] Comparing 'com.testinium.StepSample.okBtn' and 'com.testinium.StepSample.okBtn'
+19-08-2020 15:09:15.250 [java] [DEBUG] Found Bir Sonraki Yolcu Seçimi İçin Tıkla in current project scope.
+19-08-2020 15:09:15.250 [java] [DEBUG] Comparing 'com.testinium.StepSample.tarihiSecimi' and 'com.testinium.StepSample.tarihiSecimi'
+19-08-2020 15:09:15.250 [java] [DEBUG] Found Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir in current project scope.
+19-08-2020 15:09:15.250 [java] [DEBUG] Scanning packages for hooks
+19-08-2020 15:09:15.260 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-08-2020 15:09:15.260 [java] [DEBUG] 	Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir : public void tarihiSecimi()
+19-08-2020 15:09:15.260 [java] [DEBUG] 	Sayfa geçişi için {} bekleyiniz : public void bekleyiniz(ınt saniye)
+19-08-2020 15:09:15.260 [java] [DEBUG] 	Yetişkin Yolcu Sayısını Değiştirme : public void yetiskinBilgisi()
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} : public void bilgiGirisi(String isim, String soyIsim, String dGunu, String eMail, String tc) throws InterruptedException
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Bilgileri Kaydet : public void kayit() throws InterruptedException
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) : public void UcusSecenegi()
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Bilet seçimi için yeni sayfaya aktırılacaksınız : public void biletSecimi()
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Uçuş Ara Butonuna Tıklanır : public void ucusBtn()
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır : public void ekonomikUcusSecimi()
+19-08-2020 15:09:15.261 [java] [DEBUG] 	İkinci Yolcuyu Ekleyiniz : public void kayitBtn()
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Ilk Yolcuyu Ekleyiniz : public void yolcuEkle()
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Nereden {} Nereye {} : public void ucusGuzergahi(String gidecegiYer, String bulundugunYer) throws InterruptedException
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz : public void cinsiyetBelireyiniz(String sayi)
+19-08-2020 15:09:15.261 [java] [DEBUG] 	Bir Sonraki Yolcu Seçimi İçin Tıkla : public void okBtn()
+19-08-2020 15:09:21.648 [Gauge] [DEBUG] Validation completed.
+19-08-2020 15:09:21.651 [Gauge] [DEBUG] Run started
+19-08-2020 15:09:21.652 [Gauge] [DEBUG] Starting Html Report plugin
+19-08-2020 15:09:21.677 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 65201
+19-08-2020 15:09:21.678 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 65201
+19-08-2020 15:09:21.679 [Gauge] [DEBUG] Initialising suite data store.
+19-08-2020 15:09:21.729 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:09:21.729 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:09:36.551 [java] [ERROR] Ağu 19, 2020 3:09:36 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+19-08-2020 15:09:36.552 [java] [ERROR] INFO: Detected dialect: W3C
+19-08-2020 15:09:36.720 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:09:38.742 [java] [DEBUG] Executing 'Bilet seçimi için yeni sayfaya aktırılacaksınız' using 'class com.testinium.StepSample.biletSecimi
+19-08-2020 15:09:38.913 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:09:40.925 [java] [DEBUG] Executing 'Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)' using 'class com.testinium.StepSample.UcusSecenegi
+19-08-2020 15:09:41.175 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:09:43.184 [java] [DEBUG] Executing 'Nereden {} Nereye {}' using 'class com.testinium.StepSample.ucusGuzergahi
+19-08-2020 15:09:50.908 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:09:52.918 [java] [DEBUG] Executing 'Yetişkin Yolcu Sayısını Değiştirme' using 'class com.testinium.StepSample.yetiskinBilgisi
+19-08-2020 15:09:53.962 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:09:55.967 [java] [DEBUG] Executing 'Uçuş Ara Butonuna Tıklanır' using 'class com.testinium.StepSample.ucusBtn
+19-08-2020 15:09:56.026 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:09:58.034 [java] [DEBUG] Executing 'Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir' using 'class com.testinium.StepSample.tarihiSecimi
+19-08-2020 15:09:59.500 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:01.508 [java] [DEBUG] Executing 'Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır' using 'class com.testinium.StepSample.ekonomikUcusSecimi
+19-08-2020 15:10:03.748 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:05.758 [java] [DEBUG] Executing 'Ilk Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.yolcuEkle
+19-08-2020 15:10:06.052 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:08.064 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:10:16.901 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:18.910 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:10:19.114 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:21.120 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:10:22.164 [java] [DEBUG] Executing 'Bir Sonraki Yolcu Seçimi İçin Tıkla' using 'class com.testinium.StepSample.okBtn
+19-08-2020 15:10:23.494 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:25.499 [java] [DEBUG] Executing 'İkinci Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.kayitBtn
+19-08-2020 15:10:25.665 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:27.675 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:10:36.280 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:10:37.059 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:10:39.065 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:10:41.658 [html-report] [DEBUG] Transformed SuiteResult to report structure
+19-08-2020 15:10:41.780 [html-report] [INFO] Successfully generated html-report to => C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\reports\html-report\index.html
+19-08-2020 15:10:41.780 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+19-08-2020 15:10:41.780 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+19-08-2020 15:10:42.430 [Gauge] [DEBUG] Runner with PID:18480 has exited
+19-08-2020 15:10:42.430 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+19-08-2020 15:10:42.430 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19-08-2020 15:10:42.431 [Gauge] [INFO] 
+Total time taken: 1m20s
+19-08-2020 15:11:38.627 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 15:11:38.632 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 15:11:38.634 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 15:11:38.636 [Gauge] [DEBUG] Parsing started.
+19-08-2020 15:11:38.636 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 15:11:38.660 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 15:11:38.660 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 15:11:38.662 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 15:11:38.663 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 15:11:38.771 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 15:11:38.771 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 15:11:38.771 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 15:11:38.771 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 15:11:38.771 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 15:11:38.771 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 15:11:38.771 [java] [DEBUG] overwrite_reports: true
+19-08-2020 15:11:38.771 [java] [DEBUG] logs_directory: logs
+19-08-2020 15:11:38.772 [java] [DEBUG] enable_multithreading: false
+19-08-2020 15:11:38.772 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 15:11:38.772 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 15:11:38.772 [java] [DEBUG] gauge_java_home: 
+19-08-2020 15:11:38.772 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 15:11:38.772 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 15:11:38.772 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 15:11:38.773 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 15:11:38.773 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 15:11:38.773 [java] [DEBUG] ***** END *****
+19-08-2020 15:11:39.081 [Gauge] [DEBUG] Checking updates...
+19-08-2020 15:11:39.089 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:39.751 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:39.883 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:40.037 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:40.178 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:40.350 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:40.483 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:40.602 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:11:46.140 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 15:11:46.278 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 15:11:46.278 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 15:11:46.278 [java] [DEBUG] stdout/stderr is logged to logs\16864-java.exe.out
+19-08-2020 15:11:46.529 [java] [DEBUG] multithreading is set to false
+19-08-2020 15:11:47.145 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 15:11:47.277 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 15:11:47.277 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 15:11:47.277 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 15:11:48.508 [java] [DEBUG] gauge-java took 1978milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 15:11:48.508 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 1978
+19-08-2020 15:11:48.508 [java] [DEBUG] starting gRPC server...
+19-08-2020 15:11:49.307 [java] [DEBUG] started gRPC server on port 50360
+19-08-2020 15:11:49.307 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50360
+19-08-2020 15:11:49.640 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50360
+19-08-2020 15:11:49.641 [Gauge] [DEBUG] Validation started.
+19-08-2020 15:11:55.492 [java] [DEBUG] Scanning packages for steps
+19-08-2020 15:11:55.540 [java] [DEBUG] Comparing 'com.testinium.StepSample.cinsiyetBelireyiniz' and 'com.testinium.StepSample.cinsiyetBelireyiniz'
+19-08-2020 15:11:55.540 [java] [DEBUG] Found Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz in current project scope.
+19-08-2020 15:11:55.540 [java] [DEBUG] Comparing 'com.testinium.StepSample.yolcuEkle' and 'com.testinium.StepSample.yolcuEkle'
+19-08-2020 15:11:55.540 [java] [DEBUG] Found Ilk Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:11:55.541 [java] [DEBUG] Comparing 'com.testinium.StepSample.biletSecimi' and 'com.testinium.StepSample.biletSecimi'
+19-08-2020 15:11:55.541 [java] [DEBUG] Found Bilet seçimi için yeni sayfaya aktırılacaksınız in current project scope.
+19-08-2020 15:11:55.541 [java] [DEBUG] Comparing 'com.testinium.StepSample.UcusSecenegi' and 'com.testinium.StepSample.UcusSecenegi'
+19-08-2020 15:11:55.542 [java] [DEBUG] Found Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) in current project scope.
+19-08-2020 15:11:55.543 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayit' and 'com.testinium.StepSample.kayit'
+19-08-2020 15:11:55.543 [java] [DEBUG] Found Bilgileri Kaydet in current project scope.
+19-08-2020 15:11:55.543 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayitBtn' and 'com.testinium.StepSample.kayitBtn'
+19-08-2020 15:11:55.543 [java] [DEBUG] Found İkinci Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:11:55.544 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusBtn' and 'com.testinium.StepSample.ucusBtn'
+19-08-2020 15:11:55.544 [java] [DEBUG] Found Uçuş Ara Butonuna Tıklanır in current project scope.
+19-08-2020 15:11:55.544 [java] [DEBUG] Comparing 'com.testinium.StepSample.bekleyiniz' and 'com.testinium.StepSample.bekleyiniz'
+19-08-2020 15:11:55.544 [java] [DEBUG] Found Sayfa geçişi için {} bekleyiniz in current project scope.
+19-08-2020 15:11:55.545 [java] [DEBUG] Comparing 'com.testinium.StepSample.bilgiGirisi' and 'com.testinium.StepSample.bilgiGirisi'
+19-08-2020 15:11:55.545 [java] [DEBUG] Found Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} in current project scope.
+19-08-2020 15:11:55.545 [java] [DEBUG] Comparing 'com.testinium.StepSample.yetiskinBilgisi' and 'com.testinium.StepSample.yetiskinBilgisi'
+19-08-2020 15:11:55.545 [java] [DEBUG] Found Yetişkin Yolcu Sayısını Değiştirme in current project scope.
+19-08-2020 15:11:55.545 [java] [DEBUG] Comparing 'com.testinium.StepSample.ekonomikUcusSecimi' and 'com.testinium.StepSample.ekonomikUcusSecimi'
+19-08-2020 15:11:55.545 [java] [DEBUG] Found Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır in current project scope.
+19-08-2020 15:11:55.545 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusGuzergahi' and 'com.testinium.StepSample.ucusGuzergahi'
+19-08-2020 15:11:55.545 [java] [DEBUG] Found Nereden {} Nereye {} in current project scope.
+19-08-2020 15:11:55.546 [java] [DEBUG] Comparing 'com.testinium.StepSample.okBtn' and 'com.testinium.StepSample.okBtn'
+19-08-2020 15:11:55.546 [java] [DEBUG] Found Bir Sonraki Yolcu Seçimi İçin Tıkla in current project scope.
+19-08-2020 15:11:55.546 [java] [DEBUG] Comparing 'com.testinium.StepSample.tarihiSecimi' and 'com.testinium.StepSample.tarihiSecimi'
+19-08-2020 15:11:55.546 [java] [DEBUG] Found Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir in current project scope.
+19-08-2020 15:11:55.546 [java] [DEBUG] Scanning packages for hooks
+19-08-2020 15:11:55.559 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir : public void tarihiSecimi()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Sayfa geçişi için {} bekleyiniz : public void bekleyiniz(ınt saniye)
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Yetişkin Yolcu Sayısını Değiştirme : public void yetiskinBilgisi()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} : public void bilgiGirisi(String isim, String soyIsim, String dGunu, String eMail, String tc) throws InterruptedException
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Bilgileri Kaydet : public void kayit() throws InterruptedException
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) : public void UcusSecenegi()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Bilet seçimi için yeni sayfaya aktırılacaksınız : public void biletSecimi()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Uçuş Ara Butonuna Tıklanır : public void ucusBtn()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır : public void ekonomikUcusSecimi()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	İkinci Yolcuyu Ekleyiniz : public void kayitBtn()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Ilk Yolcuyu Ekleyiniz : public void yolcuEkle()
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Nereden {} Nereye {} : public void ucusGuzergahi(String gidecegiYer, String bulundugunYer) throws InterruptedException
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz : public void cinsiyetBelireyiniz(String sayi)
+19-08-2020 15:11:55.559 [java] [DEBUG] 	Bir Sonraki Yolcu Seçimi İçin Tıkla : public void okBtn()
+19-08-2020 15:12:00.473 [Gauge] [DEBUG] Validation completed.
+19-08-2020 15:12:00.475 [Gauge] [DEBUG] Run started
+19-08-2020 15:12:00.477 [Gauge] [DEBUG] Starting Html Report plugin
+19-08-2020 15:12:00.504 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50479
+19-08-2020 15:12:00.505 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50479
+19-08-2020 15:12:00.506 [Gauge] [DEBUG] Initialising suite data store.
+19-08-2020 15:12:00.555 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:12:00.555 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:12:15.635 [java] [ERROR] Ağu 19, 2020 3:12:15 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+19-08-2020 15:12:15.635 [java] [ERROR] INFO: Detected dialect: W3C
+19-08-2020 15:12:15.757 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:17.784 [java] [DEBUG] Executing 'Bilet seçimi için yeni sayfaya aktırılacaksınız' using 'class com.testinium.StepSample.biletSecimi
+19-08-2020 15:12:17.997 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:20.005 [java] [DEBUG] Executing 'Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)' using 'class com.testinium.StepSample.UcusSecenegi
+19-08-2020 15:12:20.602 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:22.609 [java] [DEBUG] Executing 'Nereden {} Nereye {}' using 'class com.testinium.StepSample.ucusGuzergahi
+19-08-2020 15:12:30.214 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:32.228 [java] [DEBUG] Executing 'Yetişkin Yolcu Sayısını Değiştirme' using 'class com.testinium.StepSample.yetiskinBilgisi
+19-08-2020 15:12:33.279 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:35.286 [java] [DEBUG] Executing 'Uçuş Ara Butonuna Tıklanır' using 'class com.testinium.StepSample.ucusBtn
+19-08-2020 15:12:35.377 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:37.387 [java] [DEBUG] Executing 'Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir' using 'class com.testinium.StepSample.tarihiSecimi
+19-08-2020 15:12:39.201 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:41.210 [java] [DEBUG] Executing 'Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır' using 'class com.testinium.StepSample.ekonomikUcusSecimi
+19-08-2020 15:12:43.980 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:45.986 [java] [DEBUG] Executing 'Ilk Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.yolcuEkle
+19-08-2020 15:12:46.247 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:48.263 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:12:57.021 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:12:59.027 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:12:59.210 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:13:01.216 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:13:02.257 [java] [DEBUG] Executing 'Bir Sonraki Yolcu Seçimi İçin Tıkla' using 'class com.testinium.StepSample.okBtn
+19-08-2020 15:13:05.065 [html-report] [DEBUG] Transformed SuiteResult to report structure
+19-08-2020 15:13:05.180 [html-report] [INFO] Successfully generated html-report to => C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\reports\html-report\index.html
+19-08-2020 15:13:05.180 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+19-08-2020 15:13:05.180 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+19-08-2020 15:13:07.682 [Gauge] [DEBUG] Runner with PID:16864 has exited
+19-08-2020 15:13:07.682 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:13:07.682 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19-08-2020 15:13:07.683 [Gauge] [INFO] 
+Total time taken: 1m4.582s
+19-08-2020 15:14:11.985 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 15:14:11.998 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 15:14:12.001 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 15:14:12.003 [Gauge] [DEBUG] Parsing started.
+19-08-2020 15:14:12.003 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 15:14:12.030 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 15:14:12.030 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 15:14:12.033 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 15:14:12.034 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 15:14:12.087 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 15:14:12.087 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 15:14:12.087 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 15:14:12.087 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 15:14:12.087 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 15:14:12.087 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 15:14:12.087 [java] [DEBUG] overwrite_reports: true
+19-08-2020 15:14:12.087 [java] [DEBUG] logs_directory: logs
+19-08-2020 15:14:12.087 [java] [DEBUG] enable_multithreading: false
+19-08-2020 15:14:12.087 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 15:14:12.087 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 15:14:12.088 [java] [DEBUG] gauge_java_home: 
+19-08-2020 15:14:12.088 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 15:14:12.088 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 15:14:12.088 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 15:14:12.088 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 15:14:12.088 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 15:14:12.088 [java] [DEBUG] ***** END *****
+19-08-2020 15:14:12.486 [Gauge] [DEBUG] Checking updates...
+19-08-2020 15:14:12.497 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:13.023 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:13.168 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:13.312 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:13.456 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:13.603 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:13.750 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:13.900 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:20.600 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 15:14:20.749 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 15:14:20.749 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 15:14:20.749 [java] [DEBUG] stdout/stderr is logged to logs\14932-java.exe.out
+19-08-2020 15:14:21.275 [java] [DEBUG] multithreading is set to false
+19-08-2020 15:14:22.829 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 15:14:22.967 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 15:14:22.968 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 15:14:22.968 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 15:14:23.785 [java] [DEBUG] gauge-java took 2482milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 15:14:23.785 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2482
+19-08-2020 15:14:23.785 [java] [DEBUG] starting gRPC server...
+19-08-2020 15:14:25.737 [java] [DEBUG] started gRPC server on port 51985
+19-08-2020 15:14:25.742 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51985
+19-08-2020 15:14:26.890 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51985
+19-08-2020 15:14:26.892 [Gauge] [DEBUG] Validation started.
+19-08-2020 15:14:58.597 [Gauge] [DEBUG] Created gauge_screenshots_dir at C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\.gauge\screenshots
+19-08-2020 15:14:58.608 [Gauge] [DEBUG] Plugin java is already installed.
+19-08-2020 15:14:58.610 [Gauge] [DEBUG] Plugin html-report is already installed.
+19-08-2020 15:14:58.612 [Gauge] [DEBUG] Parsing started.
+19-08-2020 15:14:58.612 [Gauge] [DEBUG] Started concepts parsing.
+19-08-2020 15:14:58.636 [Gauge] [DEBUG] 0 concepts parsing completed.
+19-08-2020 15:14:58.637 [Gauge] [DEBUG] Started specifications parsing.
+19-08-2020 15:14:58.642 [Gauge] [DEBUG] 1 specifications parsing completed.
+19-08-2020 15:14:58.642 [Gauge] [DEBUG] Parsing completed.
+19-08-2020 15:14:58.868 [java] [DEBUG] ***** Printing Properties/Env Values *****
+19-08-2020 15:14:58.868 [java] [DEBUG] PATH: C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Gauge\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\;C:\Users\testinium\AppData\Local\Android\Sdk\tools\bin\;C:\Program Files\Java\jre1.8.0_261\bin\;C:\Program Files\dotnet\;C:\Users\TESTINIUM\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.4\bin;;C:\Program Files (x86)\Apache Software Foundation\Tomcat 9.0\webapps\jenkins\secrets\initialAdminPassword;C:\Users\TESTINIUM\AppData\Local\Android\Sdk\platform-tools\;C:\Users\TESTINIUM\.dotnet\tools;;C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\screenshot\0.0.1
+19-08-2020 15:14:58.868 [java] [DEBUG] JAVA_HOME: C:\Program Files\Java\jdk1.8.0_261
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_project_root: C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_parallel_streams_count: 8
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_reports_dir: reports
+19-08-2020 15:14:58.868 [java] [DEBUG] overwrite_reports: true
+19-08-2020 15:14:58.868 [java] [DEBUG] logs_directory: logs
+19-08-2020 15:14:58.868 [java] [DEBUG] enable_multithreading: false
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_specs_dir: specs
+19-08-2020 15:14:58.868 [java] [DEBUG] csv_delimiter: ,
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_java_home: 
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_custom_build_path: 
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_additional_libs: libs/*
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_jvm_args: 
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_custom_compile_dir: 
+19-08-2020 15:14:58.868 [java] [DEBUG] gauge_clear_state_level: scenario
+19-08-2020 15:14:58.868 [java] [DEBUG] ***** END *****
+19-08-2020 15:14:59.279 [Gauge] [DEBUG] Checking updates...
+19-08-2020 15:14:59.282 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/csharp?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:59.810 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:14:59.967 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:15:00.111 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/json-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:15:00.605 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/python?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:15:02.044 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:15:02.326 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/spectacle?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:15:02.484 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=csharp,html-report,java,json-report,python,screenshot,spectacle,xml-report&o=windows&a=amd64
+19-08-2020 15:15:07.881 [java] [DEBUG] classpath set to C:\Program Files\Java\jdk1.8.0_261\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_261\jre\lib\rt.jar;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\test-classes;C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\target\classes;C:\Users\TESTINIUM\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\TESTINIUM\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\thoughtworks\gauge\gauge-java\0.7.9\gauge-java-0.7.9.jar;C:\Users\TESTINIUM\.m2\repository\org\assertj\assertj-core\3.16.1\assertj-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\org\reflections\reflections\0.9.11\reflections-0.9.11.jar;C:\Users\TESTINIUM\.m2\repository\org\javassist\javassist\3.21.0-GA\javassist-3.21.0-GA.jar;C:\Users\TESTINIUM\.m2\repository\com\github\javaparser\javaparser-core\3.16.1\javaparser-core-3.16.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\TESTINIUM\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\TESTINIUM\.m2\repository\org\json\json\20200518\json-20200518.jar;C:\Users\TESTINIUM\.m2\repository\com\google\protobuf\protobuf-java\3.12.2\protobuf-java-3.12.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\guava\29.0-jre\guava-29.0-jre.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TESTINIUM\.m2\repository\org\checkerframework\checker-qual\2.11.1\checker-qual-2.11.1.jar;C:\Users\TESTINIUM\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\TESTINIUM\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-netty-shaded\1.30.2\grpc-netty-shaded-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-core\1.30.2\grpc-core-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\android\annotations\4.1.1.4\annotations-4.1.1.4.jar;C:\Users\TESTINIUM\.m2\repository\io\perfmark\perfmark-api\0.19.0\perfmark-api-0.19.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf\1.30.2\grpc-protobuf-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-api\1.30.2\grpc-api-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-context\1.30.2\grpc-context-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\com\google\api\grpc\proto-google-common-protos\1.17.0\proto-google-common-protos-1.17.0.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-protobuf-lite\1.30.2\grpc-protobuf-lite-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.18\animal-sniffer-annotations-1.18.jar;C:\Users\TESTINIUM\.m2\repository\io\grpc\grpc-stub\1.30.2\grpc-stub-1.30.2.jar;C:\Users\TESTINIUM\.m2\repository\javax\annotation\javax.annotation-api\1.3.2\javax.annotation-api-1.3.2.jar;C:\Users\TESTINIUM\.m2\repository\io\appium\java-client\7.3.0\java-client-7.3.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\TESTINIUM\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\TESTINIUM\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpclient\4.5.9\httpclient-4.5.9.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\httpcomponents\httpcore\4.4.11\httpcore-4.4.11.jar;C:\Users\TESTINIUM\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TESTINIUM\.m2\repository\cglib\cglib\3.2.12\cglib-3.2.12.jar;C:\Users\TESTINIUM\.m2\repository\org\ow2\asm\asm\7.1\asm-7.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-validator\commons-validator\1.6\commons-validator-1.6.jar;C:\Users\TESTINIUM\.m2\repository\commons-beanutils\commons-beanutils\1.9.2\commons-beanutils-1.9.2.jar;C:\Users\TESTINIUM\.m2\repository\commons-digester\commons-digester\1.8.1\commons-digester-1.8.1.jar;C:\Users\TESTINIUM\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\commons\commons-lang3\3.9\commons-lang3-3.9.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-context\5.1.8.RELEASE\spring-context-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-aop\5.1.8.RELEASE\spring-aop-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-beans\5.1.8.RELEASE\spring-beans-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-core\5.1.8.RELEASE\spring-core-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-jcl\5.1.8.RELEASE\spring-jcl-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\springframework\spring-expression\5.1.8.RELEASE\spring-expression-5.1.8.RELEASE.jar;C:\Users\TESTINIUM\.m2\repository\org\aspectj\aspectjweaver\1.9.4\aspectjweaver-1.9.4.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\org\slf4j\slf4j-log4j12\1.7.30\slf4j-log4j12-1.7.30.jar;C:\Users\TESTINIUM\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\TESTINIUM\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\TESTINIUM\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\TESTINIUM\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\TESTINIUM\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar
+19-08-2020 15:15:07.940 [java] [DEBUG] found java executable in C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe
+19-08-2020 15:15:07.940 [java] [DEBUG] running - C:\Program Files\Java\jdk1.8.0_261\jre\bin\java.exe [-Dfile.encoding=UTF-8 com.thoughtworks.gauge.GaugeRuntime --start]
+19-08-2020 15:15:07.940 [java] [DEBUG] stdout/stderr is logged to logs\11156-java.exe.out
+19-08-2020 15:15:08.312 [java] [DEBUG] multithreading is set to false
+19-08-2020 15:15:09.620 [java] [DEBUG] Using reflection to scan dependencies for gauge implementations...
+19-08-2020 15:15:09.790 [java] [ERROR] log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
+19-08-2020 15:15:09.790 [java] [ERROR] log4j:WARN Please initialize the log4j system properly.
+19-08-2020 15:15:09.790 [java] [ERROR] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+19-08-2020 15:15:10.650 [java] [DEBUG] gauge-java took 2328milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value.
+19-08-2020 15:15:10.650 [java] [DEBUG] run 'gauge config runner_connection_timeout' and verify that it is < 2328
+19-08-2020 15:15:10.651 [java] [DEBUG] starting gRPC server...
+19-08-2020 15:15:11.553 [java] [DEBUG] started gRPC server on port 52469
+19-08-2020 15:15:11.554 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52469
+19-08-2020 15:15:12.100 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52469
+19-08-2020 15:15:12.100 [Gauge] [DEBUG] Validation started.
+19-08-2020 15:15:17.257 [java] [DEBUG] Scanning packages for steps
+19-08-2020 15:15:17.301 [java] [DEBUG] Comparing 'com.testinium.StepSample.cinsiyetBelireyiniz' and 'com.testinium.StepSample.cinsiyetBelireyiniz'
+19-08-2020 15:15:17.301 [java] [DEBUG] Found Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz in current project scope.
+19-08-2020 15:15:17.302 [java] [DEBUG] Comparing 'com.testinium.StepSample.yolcuEkle' and 'com.testinium.StepSample.yolcuEkle'
+19-08-2020 15:15:17.302 [java] [DEBUG] Found Ilk Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:15:17.302 [java] [DEBUG] Comparing 'com.testinium.StepSample.biletSecimi' and 'com.testinium.StepSample.biletSecimi'
+19-08-2020 15:15:17.302 [java] [DEBUG] Found Bilet seçimi için yeni sayfaya aktırılacaksınız in current project scope.
+19-08-2020 15:15:17.302 [java] [DEBUG] Comparing 'com.testinium.StepSample.UcusSecenegi' and 'com.testinium.StepSample.UcusSecenegi'
+19-08-2020 15:15:17.302 [java] [DEBUG] Found Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) in current project scope.
+19-08-2020 15:15:17.302 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayit' and 'com.testinium.StepSample.kayit'
+19-08-2020 15:15:17.302 [java] [DEBUG] Found Bilgileri Kaydet in current project scope.
+19-08-2020 15:15:17.303 [java] [DEBUG] Comparing 'com.testinium.StepSample.kayitBtn' and 'com.testinium.StepSample.kayitBtn'
+19-08-2020 15:15:17.303 [java] [DEBUG] Found İkinci Yolcuyu Ekleyiniz in current project scope.
+19-08-2020 15:15:17.303 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusBtn' and 'com.testinium.StepSample.ucusBtn'
+19-08-2020 15:15:17.303 [java] [DEBUG] Found Uçuş Ara Butonuna Tıklanır in current project scope.
+19-08-2020 15:15:17.303 [java] [DEBUG] Comparing 'com.testinium.StepSample.bekleyiniz' and 'com.testinium.StepSample.bekleyiniz'
+19-08-2020 15:15:17.303 [java] [DEBUG] Found Sayfa geçişi için {} bekleyiniz in current project scope.
+19-08-2020 15:15:17.303 [java] [DEBUG] Comparing 'com.testinium.StepSample.bilgiGirisi' and 'com.testinium.StepSample.bilgiGirisi'
+19-08-2020 15:15:17.303 [java] [DEBUG] Found Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} in current project scope.
+19-08-2020 15:15:17.303 [java] [DEBUG] Comparing 'com.testinium.StepSample.yetiskinBilgisi' and 'com.testinium.StepSample.yetiskinBilgisi'
+19-08-2020 15:15:17.304 [java] [DEBUG] Found Yetişkin Yolcu Sayısını Değiştirme in current project scope.
+19-08-2020 15:15:17.304 [java] [DEBUG] Comparing 'com.testinium.StepSample.ekonomikUcusSecimi' and 'com.testinium.StepSample.ekonomikUcusSecimi'
+19-08-2020 15:15:17.304 [java] [DEBUG] Found Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır in current project scope.
+19-08-2020 15:15:17.304 [java] [DEBUG] Comparing 'com.testinium.StepSample.ucusGuzergahi' and 'com.testinium.StepSample.ucusGuzergahi'
+19-08-2020 15:15:17.304 [java] [DEBUG] Found Nereden {} Nereye {} in current project scope.
+19-08-2020 15:15:17.304 [java] [DEBUG] Comparing 'com.testinium.StepSample.okBtn' and 'com.testinium.StepSample.okBtn'
+19-08-2020 15:15:17.304 [java] [DEBUG] Found Bir Sonraki Yolcu Seçimi İçin Tıkla in current project scope.
+19-08-2020 15:15:17.305 [java] [DEBUG] Comparing 'com.testinium.StepSample.tarihiSecimi' and 'com.testinium.StepSample.tarihiSecimi'
+19-08-2020 15:15:17.305 [java] [DEBUG] Found Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir in current project scope.
+19-08-2020 15:15:17.305 [java] [DEBUG] Scanning packages for hooks
+19-08-2020 15:15:17.313 [java] [DEBUG] Scanned steps (using static parsing + reflections): 
+19-08-2020 15:15:17.313 [java] [DEBUG] 	Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir : public void tarihiSecimi()
+19-08-2020 15:15:17.313 [java] [DEBUG] 	Sayfa geçişi için {} bekleyiniz : public void bekleyiniz(ınt saniye)
+19-08-2020 15:15:17.313 [java] [DEBUG] 	Yetişkin Yolcu Sayısını Değiştirme : public void yetiskinBilgisi()
+19-08-2020 15:15:17.313 [java] [DEBUG] 	Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{} : public void bilgiGirisi(String isim, String soyIsim, String dGunu, String eMail, String tc) throws InterruptedException
+19-08-2020 15:15:17.313 [java] [DEBUG] 	Bilgileri Kaydet : public void kayit() throws InterruptedException
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş) : public void UcusSecenegi()
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Bilet seçimi için yeni sayfaya aktırılacaksınız : public void biletSecimi()
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Uçuş Ara Butonuna Tıklanır : public void ucusBtn()
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır : public void ekonomikUcusSecimi()
+19-08-2020 15:15:17.314 [java] [DEBUG] 	İkinci Yolcuyu Ekleyiniz : public void kayitBtn()
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Ilk Yolcuyu Ekleyiniz : public void yolcuEkle()
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Nereden {} Nereye {} : public void ucusGuzergahi(String gidecegiYer, String bulundugunYer) throws InterruptedException
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz : public void cinsiyetBelireyiniz(String sayi)
+19-08-2020 15:15:17.314 [java] [DEBUG] 	Bir Sonraki Yolcu Seçimi İçin Tıkla : public void okBtn()
+19-08-2020 15:15:20.526 [Gauge] [DEBUG] Validation completed.
+19-08-2020 15:15:20.529 [Gauge] [DEBUG] Run started
+19-08-2020 15:15:20.530 [Gauge] [DEBUG] Starting Html Report plugin
+19-08-2020 15:15:20.557 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52559
+19-08-2020 15:15:20.558 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52559
+19-08-2020 15:15:20.558 [Gauge] [DEBUG] Initialising suite data store.
+19-08-2020 15:15:20.659 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:15:20.659 [java] [INFO] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+19-08-2020 15:15:36.295 [java] [ERROR] Ağu 19, 2020 3:15:36 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+19-08-2020 15:15:36.295 [java] [ERROR] INFO: Detected dialect: W3C
+19-08-2020 15:15:36.529 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:15:38.539 [java] [DEBUG] Executing 'Bilet seçimi için yeni sayfaya aktırılacaksınız' using 'class com.testinium.StepSample.biletSecimi
+19-08-2020 15:15:38.691 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:15:40.728 [java] [DEBUG] Executing 'Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)' using 'class com.testinium.StepSample.UcusSecenegi
+19-08-2020 15:15:41.514 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:15:43.520 [java] [DEBUG] Executing 'Nereden {} Nereye {}' using 'class com.testinium.StepSample.ucusGuzergahi
+19-08-2020 15:15:51.433 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:15:53.443 [java] [DEBUG] Executing 'Yetişkin Yolcu Sayısını Değiştirme' using 'class com.testinium.StepSample.yetiskinBilgisi
+19-08-2020 15:15:54.479 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:15:56.484 [java] [DEBUG] Executing 'Uçuş Ara Butonuna Tıklanır' using 'class com.testinium.StepSample.ucusBtn
+19-08-2020 15:15:56.554 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:15:58.563 [java] [DEBUG] Executing 'Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir' using 'class com.testinium.StepSample.tarihiSecimi
+19-08-2020 15:16:00.403 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:02.416 [java] [DEBUG] Executing 'Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır' using 'class com.testinium.StepSample.ekonomikUcusSecimi
+19-08-2020 15:16:04.546 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:06.554 [java] [DEBUG] Executing 'Ilk Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.yolcuEkle
+19-08-2020 15:16:06.836 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:08.851 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:16:17.663 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:19.669 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:16:19.946 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:21.951 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:16:23.005 [java] [DEBUG] Executing 'Bir Sonraki Yolcu Seçimi İçin Tıkla' using 'class com.testinium.StepSample.okBtn
+19-08-2020 15:16:24.491 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:26.496 [java] [DEBUG] Executing 'İkinci Yolcuyu Ekleyiniz' using 'class com.testinium.StepSample.kayitBtn
+19-08-2020 15:16:26.693 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:28.701 [java] [DEBUG] Executing 'Yolcu Ekle Alanının Bilgileriniz {},{},{},{},{}' using 'class com.testinium.StepSample.bilgiGirisi
+19-08-2020 15:16:37.388 [java] [DEBUG] Executing 'Cinsiyet Secimi {} (Erkek için 1 - Kadın için 2) Seçiniz' using 'class com.testinium.StepSample.cinsiyetBelireyiniz
+19-08-2020 15:16:38.105 [java] [DEBUG] Executing 'Sayfa geçişi için {} bekleyiniz' using 'class com.testinium.StepSample.bekleyiniz
+19-08-2020 15:16:40.117 [java] [DEBUG] Executing 'Bilgileri Kaydet' using 'class com.testinium.StepSample.kayit
+19-08-2020 15:16:42.334 [html-report] [DEBUG] Transformed SuiteResult to report structure
+19-08-2020 15:16:42.427 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+19-08-2020 15:16:42.427 [html-report] [INFO] Successfully generated html-report to => C:\Users\TESTINIUM\IdeaProjects\Appium-THY-Test\reports\html-report\index.html
+19-08-2020 15:16:42.427 [html-report] [DEBUG] Done generating HTML report using theme from C:\Users\TESTINIUM\AppData\Roaming\gauge\plugins\html-report\4.0.12\themes\default
+19-08-2020 15:16:43.053 [Gauge] [DEBUG] Runner with PID:11156 has exited
+19-08-2020 15:16:43.053 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+19-08-2020 15:16:43.053 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19-08-2020 15:16:43.053 [Gauge] [INFO] 
+Total time taken: 1m21.784s

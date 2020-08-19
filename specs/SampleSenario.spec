@@ -26,6 +26,20 @@ Appium THY Test
 * Ilk Yolcuyu Ekleyiniz
 * Sayfa geçişi için "2" bekleyiniz
 * Yolcu Ekle Alanının Bilgileriniz "Betül","YENİ","24-10-1995","betulyeni@gmail.com","48043532010"
+* Sayfa geçişi için "2" bekleyiniz
+* Cinsiyet Secimi "2" (Erkek için 1 - Kadın için 2) Seçiniz
+* Sayfa geçişi için "2" bekleyiniz
+* Bilgileri Kaydet
+* Bir Sonraki Yolcu Seçimi İçin Tıkla
+* Sayfa geçişi için "2" bekleyiniz
+* İkinci Yolcuyu Ekleyiniz
+* Sayfa geçişi için "2" bekleyiniz
+* Yolcu Ekle Alanının Bilgileriniz "Mert","YENİ","05-02-1998","mertyeni@gmail.com","55972064536"
+* Cinsiyet Secimi "1" (Erkek için 1 - Kadın için 2) Seçiniz
+* Sayfa geçişi için "2" bekleyiniz
+* Bilgileri Kaydet
+
+
 
 
 
