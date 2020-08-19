@@ -36,7 +36,12 @@ import org.slf4j.LoggerFactory;
             el2.sendKeys(gidecegiYer);
             appiumDriver.findElement(By.xpath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]")).click();
         }
-       
+        @Step("Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)")
+        public void UcusSecenegi(){
+            appiumDriver.findElement(By.id("com.turkishairlines.mobile:id/frDashboard_tvOneWay")).click();
+        }
+
+
 
     }
 

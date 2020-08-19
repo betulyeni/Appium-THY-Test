@@ -11,6 +11,8 @@ Appium THY Test
 * Sayfa geçişi için "2" bekleyiniz
 * Bilet seçimi için yeni sayfaya aktırılacaksınız
 * Sayfa geçişi için "2" bekleyiniz
-* Nereden "SAW" Nereye "ESB"
+* Uçuş Seçeneğiniz (Tek Yön - Gidiş Dönüş)
+* Sayfa geçişi için "2" bekleyiniz
+* Nereden "ESB" Nereye "SAW"
 * Sayfa geçişi için "2" bekleyiniz
 
