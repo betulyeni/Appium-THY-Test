@@ -23,6 +23,9 @@ Appium THY Test
 * Sayfa geçişi için "2" bekleyiniz
 * Ekonomik Uçuş Seçilir ve Devam Buttonuna Tıklanır
 * Sayfa geçişi için "2" bekleyiniz
+* Ilk Yolcuyu Ekleyiniz
+* Sayfa geçişi için "2" bekleyiniz
+* Yolcu Ekle Alanının Bilgileriniz "Betül","YENİ","24-10-1995","betulyeni@gmail.com","48043532010"
 
 
 
