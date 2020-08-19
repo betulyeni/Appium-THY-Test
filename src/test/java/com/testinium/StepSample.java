@@ -50,10 +50,16 @@ import org.slf4j.LoggerFactory;
             appiumDriver.findElement(By.id("com.turkishairlines.mobile:id/frDashboard_btnSearch")).click();
         }
 
+        @Step("Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir")
+        public void tarihiSecimi() {
+            MobileElement el3 = (MobileElement) appiumDriver.findElementByXPath("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[3]");
+            el3.click();
+        }
 
 
 
-    }
+
+        }
 
 
 

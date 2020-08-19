@@ -19,6 +19,8 @@ Appium THY Test
 * Sayfa geçişi için "2" bekleyiniz
 * Uçuş Ara Butonuna Tıklanır
 * Sayfa geçişi için "2" bekleyiniz
+* Tarih Bilgisi Günün Tarihinden 2 Gün Sonraya Seçilir
+* Sayfa geçişi için "2" bekleyiniz
 
 
 
