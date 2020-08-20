@@ -30,7 +30,7 @@ public class StepSample extends SamplePage {
 
 
     public void readCsv() {
-        String csvFile = "veriler.csv";
+        String csvFile = "Excel/veriler.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ";";
