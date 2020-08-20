@@ -30,7 +30,7 @@ public class StepSample extends SamplePage {
 
 
     public void readCsv() {
-        String csvFile = "C:\\Users\\TESTINIUM\\IdeaProjects\\Appium-THY-Test\\veriler.csv";
+        String csvFile = "veriler.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ";";
